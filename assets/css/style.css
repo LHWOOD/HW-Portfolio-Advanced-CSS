@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: red;
+  height: 70px;
+}
+
+.container1 {
+  display: flex;
+  background-color: blue;
+  border: 5px solid black;
+  height: 300px;
+}
+
+.container2 {
+  display: flex;
+  background-color: brown;
+  border: 5px solid black;
+  height: 300px;
+}
