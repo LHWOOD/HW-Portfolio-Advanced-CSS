@@ -70,7 +70,7 @@ header img {
 }
 /* section3 */
 .container3 {
-  display: block
+  display: block;
   border: 5px solid black;
   height: 300px;
 }
