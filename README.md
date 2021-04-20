@@ -11,9 +11,11 @@ No installation specifications are required for this webpage.
 
 ## Usage
 
-screenshots...
+Screen shot of web application.
+[PortScreenshot](assets/images/PortScreenshot.jpg)
 
-`md ![alt text](assets/images/screenshot.png) `
+Link to page.
+https://lhwood.github.io/HWPortfolio-AdvancedCSS/
 
 ## Credits
 
