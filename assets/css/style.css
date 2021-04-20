@@ -101,6 +101,12 @@ main {
   flex: 3 0 75%;
 }
 
+.cardb img {
+  max-height: 575px;
+  min-width: 575px;
+  /* object-fit: scale-down; */
+}
+
 .card p {
   padding-top: 15px;
 }
@@ -138,5 +144,11 @@ main {
   }
   aside {
     order: 2;
+  }
+  .container2 {
+    margin-left: 0;
+  }
+  .aside {
+    display: none;
   }
 }
