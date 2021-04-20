@@ -15,9 +15,6 @@ body {
   justify-content: space-around;
   align-items: center;
   padding: 40px;
-  /* text-align: center; */
-  /* background-color: #13293d; */
-  /* background-color: gray; */
   background-image: url(https://images.unsplash.com/photo-1618374779328-929c3c7d3687?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDY0fGlVSXNuVnRqQjBZfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
   /* background-repeat: repeat; */
   color: #fff;
@@ -32,11 +29,10 @@ body {
 
 /* navigation bar */
 .nav {
-  /* background-color: rgb(161, 122, 93); */
-  background-color: black;
+  background-color: white;
   height: 60px;
-  font-size: 25px;
-  /* border-right: white solid 0.5px; */
+  font-size: 28px;
+  margin: 0;
 }
 
 .nav ul {
@@ -54,63 +50,72 @@ main {
 .img {
   width: 250px;
   border-radius: 25% 25% 25% 25%;
-  /* box-shadow: gray 0px 0px 0px 5px; */
+  box-shadow: white 0px 0px 0px 2px;
 }
 
 .aside {
-  display: flex;
-  flex: 10%;
-  /* background-color: #707a67; */
   background-color: black;
   color: white;
   padding: 20px;
   flex-wrap: wrap;
-  align-items: center;
+  align-items: flex-start;
   text-align: center;
   font-size: 40px;
-  border-right: solid white 0.5px;
 }
 
 .container1 {
   display: flex;
-  /* flex: 30%; */
   background-color: black;
   color: white;
-
-  padding: 90px;
   font-size: 35px;
   line-height: 1.25;
-  padding-left: 15px;
-  align-items: flex-start;
+  padding: 10px;
   flex-wrap: wrap;
   flex: 1 1 33%;
+  border-right: white solid 0.5px;
 }
 
 .container2 {
-  /* flex: 60%; */
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 50px;
+  justify-content: space-between;
 }
 
-.image1 {
-  width: 500px;
-  /* flex: 3 0 500px; */
+.card {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  flex: 0 0 25%px;
 }
-.image2 {
-  width: 500px 333px;
+
+.cardb {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  border-style: solid;
+  border-width: 1px;
+  flex: 4 0 75%;
 }
-.image3 {
-  width: 500px 333px;
+
+.card p {
+  padding-top: 15px;
 }
-.image4 {
-  width: 500px 333px;
+
+.cardb p {
+  padding-top: 15px;
 }
 
 /* Footer */
 .footer {
-  border: solid black 1px;
+  border-top: solid white 1px;
   display: flexbox;
   padding: 20px;
-  /* background-color: rgb(161, 122, 93); */
-  background-color: black;
+  background-color: white;
 }
 
 .footer h2 {
