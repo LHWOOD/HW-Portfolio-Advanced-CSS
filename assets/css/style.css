@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Cairo", sans-serif;
   background-color: black;
 }
 
@@ -15,14 +15,14 @@ body {
   justify-content: space-around;
   align-items: center;
   padding: 40px;
-  background-image: url(https://images.unsplash.com/photo-1618374779328-929c3c7d3687?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDY0fGlVSXNuVnRqQjBZfHxlbnwwfHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-image: url(https://images.unsplash.com/photo-1603715749723-240c88df18b1?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGJsYWNrfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
   /* background-repeat: repeat; */
   color: #fff;
 }
 
 .header h1 {
   font-size: 150px;
-  font-family: "Charmonman", cursive;
+  font-family: "Alex Brush", cursive;
   padding: 5px;
   color: white;
 }
@@ -59,7 +59,6 @@ main {
   padding: 20px;
   flex-wrap: wrap;
   align-items: flex-start;
-  text-align: center;
   font-size: 40px;
 }
 
@@ -72,7 +71,7 @@ main {
   padding: 10px;
   flex-wrap: wrap;
   flex: 1 1 33%;
-  border-right: white solid 0.5px;
+  /* border-right: white solid 0.5px; */
 }
 
 .container2 {
@@ -89,7 +88,7 @@ main {
   text-align: center;
   border-style: solid;
   border-width: 1px;
-  flex: 0 0 25%px;
+  flex: 0 1 25%px;
 }
 
 .cardb {
@@ -99,7 +98,7 @@ main {
   text-align: center;
   border-style: solid;
   border-width: 1px;
-  flex: 4 0 75%;
+  flex: 3 0 75%;
 }
 
 .card p {
@@ -119,7 +118,7 @@ main {
 }
 
 .footer h2 {
-  display: none;
+  color: white;
 }
 
 .footer ul {
