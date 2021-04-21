@@ -12,13 +12,11 @@ No installation specifications are required for this webpage.
 ## Usage
 
 Screen shot of web application.
-[PortScreenshot](assets/images/PortScreenshot.jpg)
+![PortScreenshot](assets/images/PortScreenshot.jpg)
 
 Link to page.
 https://lhwood.github.io/HWPortfolio-AdvancedCSS/
 
 ## Credits
 
-Class materials and W3Schools served as resources for this project.
-
-Photos supplied by Unsplash with individual credits attributed to...
+Class materials and W3Schools served as resources for this project as well as photos provided by Unsplash.
