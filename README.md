@@ -12,7 +12,7 @@ No installation specifications are required for this webpage.
 ## Usage
 
 Screen shot of web application.
-`![Screenshot](./assets/images/PortScreenshot.png)`
+![screenshot](assets/images/PortScreenshot.png)
 
 Link to page.
 https://lhwood.github.io/HWPortfolio-AdvancedCSS/
