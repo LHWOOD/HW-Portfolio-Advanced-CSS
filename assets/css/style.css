@@ -79,6 +79,7 @@ main {
   flex-wrap: wrap;
   margin-left: 50px;
   justify-content: space-between;
+  font-size: 35px;
 }
 
 .card {
@@ -102,8 +103,8 @@ main {
 }
 
 .cardb img {
-  max-height: 575px;
-  min-width: 575px;
+  max-height: 475px;
+  min-width: 475px;
   /* object-fit: scale-down; */
 }
 
@@ -167,7 +168,11 @@ main {
     margin-left: 52px;
   }
   .footer ul li {
-    justify-content: space-evenly;
+    justify-content: space-between;
     font-size: 19px;
+  }
+  .cardb img {
+    max-height: 275px;
+    min-width: 275px;
   }
 }
