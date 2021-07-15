@@ -80,6 +80,10 @@ main {
   }
 } */
 
+.yo {
+  border-top: 2px;
+}
+
 .img {
   width: 250px;
   border-radius: 25% 25% 25% 25%;
