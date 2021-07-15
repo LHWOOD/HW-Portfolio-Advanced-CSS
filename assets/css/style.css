@@ -48,9 +48,8 @@ main {
   display: flex;
 }
 
-.blurred-wrapper {
+/* .blurred-wrapper {
   height: 100vh;
-  /* border-bottom: white 0.25px solid; */
   background: url("../images/photo-1618386230353-3631c1365be2.jpeg")
     center/cover;
   position: relative;
@@ -79,7 +78,7 @@ main {
   to {
     filter: hue-rotate(360deg);
   }
-}
+} */
 
 .img {
   width: 250px;
